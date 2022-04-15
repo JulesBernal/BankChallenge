@@ -1,7 +1,7 @@
 
 let accountBalance=300;
-let depositFunds;=prompt("How much would you like to deposit?");
-let withdrawFunds;=prompt("How much would you like to withdraw?");
+let depositFunds;
+let withdrawFunds;
 
 prompt("What would you like to do today, withdraw or make a deposit or end?");
 if (choice=="deposit"){
